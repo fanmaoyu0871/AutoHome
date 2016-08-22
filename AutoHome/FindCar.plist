@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>http://app.api.autohome.com.cn/autov4.7/cars/brands-pm1-ts0.json</string>
+		<key>title</key>
+		<string>品牌</string>
+		<key>vcName</key>
+		<string>FMBrandViewController</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://app.api.autohome.com.cn/autov4.7/cars/brands-pm1-ts0.json</string>
+		<key>title</key>
+		<string>筛选</string>
+		<key>vcName</key>
+		<string>FMChooseViewController</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://app.api.autohome.com.cn/autov4.7/dealer/pdspecs-pm1-pi110000-c110100-o0-b0-ss0-sp0-p1-s20-l0-minp0-maxp0.json</string>
+		<key>title</key>
+		<string>降价</string>
+		<key>vcName</key>
+		<string>FMPriceDownViewController</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://app.api.autohome.com.cn/autov4.7/cars/brands-pm1-ts0.json</string>
+		<key>title</key>
+		<string>找二手车</string>
+		<key>vcName</key>
+		<string>FMSecondCarViewController</string>
+	</dict>
+</array>
+</plist>

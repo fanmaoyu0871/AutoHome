@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>http://app.api.autohome.com.cn/autov4.7/club/jingxuantopic-pm1-c0-p1-s30.json</string>
+		<key>title</key>
+		<string>精选日报</string>
+		<key>vcName</key>
+		<string>FMDailyPaperController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>常用论坛</string>
+		<key>vcName</key>
+		<string>FMForumController</string>
+	</dict>
+</array>
+</plist>
